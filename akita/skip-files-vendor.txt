@@ -866,7 +866,7 @@ overlay/framework-res__akita_beta__auto_generated_rro_vendor.apk
 lib/modules
 
 # Exclude files that compile with BUILD_WITHOUT_VENDOR := false
-# or manually added as build targets in device-lineage.mk
+# or manually added as build targets in device-derp.mk
 
 # Audio
 lib64/android.hardware.audio.core.sounddose-V3-ndk.so
