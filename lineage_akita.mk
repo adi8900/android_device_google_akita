@@ -5,6 +5,7 @@
 #
 
 # Inherit some common stuff
+DERPFEST_BUILD_TYPE := Official
 TARGET_DISABLE_EPPE := true
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
